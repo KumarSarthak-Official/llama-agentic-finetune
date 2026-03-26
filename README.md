@@ -5,7 +5,7 @@ A high-efficiency fine-tuning pipeline for **Llama-3.2-3B**, optimized for instr
 ---
 
 ## 🚀 Model Access
-[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)]https://huggingface.co/spaces/kumarsarthak98/agentic-llama-demo)
+[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)][Demo Model Here] 
 
 > **[Download my fine-tuned weights on Hugging Face here]https://huggingface.co/spaces/kumarsarthak98/agentic-llama-demo**
 
