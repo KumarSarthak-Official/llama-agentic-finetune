@@ -3,7 +3,7 @@
 A high-efficiency fine-tuning pipeline for **Llama-3.2-3B**, optimized for instruction-following and Agentic AI reasoning. This project demonstrates the ability to take a base model and adapt it to specific task structures using a minimal hardware footprint (Google Colab T4 GPU).
 
 ---
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KumarSarthak-Official/llama-agentic-finetune/blob/main/Fune_Tuning_Llama_3.2-3B.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KumarSarthak-Official/llama-agentic-finetune/blob/main/Fine_Tuning_Llama_3.2-3B.ipynb)
 
 ## 🚀 Model Access
 [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)][Demo Model Here] 
